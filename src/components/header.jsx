@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Typed from 'react-typed';
 
 export class Header extends Component {
   render() {
@@ -13,6 +14,19 @@ export class Header extends Component {
                     {this.props.data ? this.props.data.title : "Loading"}
                     <span></span>
                   </h1>
+                  <h2>Be 
+                    <span>
+                      {' '}
+                        <Typed
+                          strings={["Noticeable","Visible","Eye catching"]}
+                          typeSpeed={40}
+                          backSpeed={60}
+                          loop={true} />  
+                    
+                    </span>
+                    {' '}at the point of sale
+                    </h2>
+                  
                   <p>
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
@@ -20,8 +34,9 @@ export class Header extends Component {
                     href="#features"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    Dive Deep
                   </a>{" "}
+
                 </div>
               </div>
             </div>

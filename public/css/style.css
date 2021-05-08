@@ -122,6 +122,9 @@ hr {
 .navbar-toggle {
 	border-radius: 0;
 }
+.nocap{
+	font-family: 'Courier New', Courier, monospace;
+}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #fff;
 	border-color: #608dfd;
@@ -155,7 +158,7 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #5ca9fb;
+	background-color: #5cf9fb;
 	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
 	padding: 14px 34px;
 	letter-spacing: 1px;
@@ -207,7 +210,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 span {
 	font-weight: 800;
-	color: #5ca9fb;
+	color: #5cf9fb;
 }
 .intro p {
 	color: #fff;
@@ -225,7 +228,7 @@ header .intro-text {
 /* Features Section */
 #features {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: #f6f6ff;
 }
 #features i.fa {
 	font-size: 38px;
@@ -365,7 +368,7 @@ header .intro-text {
 	font-weight: 500;
 	text-transform: uppercase;
 }
-.hover-bg:hover .hover-text>h4 {
+/* .hover-bg:hover .hover-text>h4 {
 	opacity: 1;
 	-webkit-backface-visibility: hidden;
 	-webkit-transform: translateY(0);
@@ -373,7 +376,7 @@ header .intro-text {
 }
 .hover-bg:hover .hover-text {
 	opacity: 1;
-}
+} */
 /* Testimonials Section */
 #testimonials {
 	padding: 100px 0;

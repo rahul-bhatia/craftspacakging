@@ -93,7 +93,8 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href={this.props.data ? this.props.data.facebook : "https://www.facebook.com"}
+                        rel="nofollow"
                       >
                         <i className="fa fa-facebook"></i>
                       </a>
@@ -108,6 +109,11 @@ export class Contact extends Component {
                         <i className="fa fa-youtube"></i>
                       </a>
                     </li>
+                    <li>
+                      <a href={this.props.data ? this.props.data.instagram : "https://www.instagram.com/valueaddition18/"} rel="nofollow">
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -117,9 +123,9 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+              &copy; 2021 craftpackaging Ltd. | All Rights Reserved | Designed by{" "}
+              <a href="https://www.rahulbhatia.tech" rel="nofollow">
+                Rahulbhatia.tech
               </a>
             </p>
           </div>

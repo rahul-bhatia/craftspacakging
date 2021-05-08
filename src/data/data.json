@@ -1,54 +1,57 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "We craft Your packaging",
+        "paragraph": "We make weapons to showcase your products armoury."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "At Craft Packaging, we work diligently every step of the way. Not only we will deliver your project complete and ready to go in a matter of weeks, but we have fun while doing so! Our creative team is always ready to take on an a new challenge.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Completely customised designs.",
+            "Collapsible and easy to pack.",
+            "Quality designs & materials.",
+            "Plastic-free,easily recyclable.",
+            "Highly visible and easily portable"
+
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Stringent quality control.",
+            "Sustainable business practices.",
+            "Reliable,consistent,trustworthy.",
+            "Team with sheer experience.",
+            "Lower cost and greater value."
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Discovery and consulting",
+            "text": "We help you analyzing your Campaing theme,Target audience,recommend on things like Size and configurations,Material options."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Designing",
+            "text": " We provide professional engineered structure with aesthically designed graphics will render an 3D image of your product for review."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Prototyping",
+            "text": "We offer physical prototype to help you visualize your unique retail display or packaging before finalizing your order."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Printing",
+            "text": "We use advanced Digital and Offset Printing for precise and vibrant print quality."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Manufacturing",
+            "text": "We have a dedicated plant with state of art facility, giving us control over cost and timeline of each project."
+        },
+        {
+            "icon": " fa fa-plane",
+            "name": "Delivery",
+            "text": "We ensure delivery of your package to its final destination with the help of our logistics partners."
         }
 
 
@@ -105,12 +108,13 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
+        "address": "Craft Packaging, Plot No 108/3-A section 29, Thane, Mumbai, Maharashtra, India 421004.",
+        "phone": "+91 7021109894",
+        "email": "info.craftpackaging@gmail.com",
+        "facebook": "https://www.facebook.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "youtube": "youtube.com",
+        "instagram":"https://www.instagram.com/valueaddition18/"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
